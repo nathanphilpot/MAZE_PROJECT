@@ -1,0 +1,12 @@
+---
+:id: 275102891
+:submitters:
+- :name: Nathan Samuel Philpot
+  :email: nsphi159@byu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-06 23:40:26.645827000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-06 16:40:26.645827000 Z
+:status: processed
+:score: 100.0
